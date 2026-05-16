@@ -2,7 +2,7 @@
 # CHAT_ID = "7352433831"
 # SYMBOL = 'SOL/USDT'
 # channel id -1003802094226
-
+import os
 import logging
 import asyncio
 import ccxt
