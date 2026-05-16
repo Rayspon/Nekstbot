@@ -1,0 +1,3 @@
+python-telegram-bot[job-queue]
+ccxt
+pandas<2.2.0
